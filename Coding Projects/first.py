@@ -3,4 +3,6 @@ print("Congratulations on the dual boot")
 print("")
 
 for i in range(10):
-    print("Hurray")
+    print("Hurray!!!!")
+
+# This code was changed by me
